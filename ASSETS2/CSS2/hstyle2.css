@@ -1,0 +1,66 @@
+body{
+    background-image: url(/ASSETS/IMAGES/hotel-wallpaper.png);
+  }
+  .navbar{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;	
+    width: 960px;
+    margin: auto;    
+}
+ 
+#mainnavbar{
+    margin: 0px;
+    padding: 20px;
+}
+#mainname{     
+	  background-color: #4aaaa5;
+    color: white; 
+    text-align: center;
+    width: 100%;
+}
+ #maincontent{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-top:30px;
+    padding: 15px 0px;
+      
+ } 
+
+ h2{
+    color: #4aaaa5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainimage{
+    width: 250px;
+    height:250px;
+    margin-right: 10px;
+}
+
+#mainfooter{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-top: solid 5px #4aaaa5;
+    background-color: gray;
+}
+
+#sizeimage{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 15px;
+}
+
+#overlay {	
+  position: absolute;
+  top: 60%;	   	 	 	 
+  background: #4aaaa5;	 
+  color: #f1f1f1; 
+  width: 250px;	 
+  padding: 5px 0;
+  text-align: center;
+}
+
+#mainsubmit{
+   background-color: #4aaaa5;
+   color: #f1f1f1;
+   font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+
